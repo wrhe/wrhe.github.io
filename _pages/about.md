@@ -5,12 +5,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="font-size:1.2em;">**William He**</span>\\
+<span style="font-size:1.5em;">**William He**</span>\\
 
 
-
-
-<img src="files/myface.png" alt="avatar" width="200" class="center">
+<img src="files/myface.png" alt="Avatar" width="200" class="avatar">
+.avatar {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
 
 <span style="font-size:1.2em;">**About Me**</span>\\
 Welcome to my website! I am a first-year Ph.D. student in the Computer Science Department at Carnegie Mellon University. I am fortunate to be advised by [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/). Previously, I was an undergraduate at Duke University, where I got my B.S. in Mathematics and Computer Science and was fortunate to be advised by [Benjamin Rossman](https://users.cs.duke.edu/~br148/) and [Debmalya Panigrahi](https://www.debmalyapanigrahi.org/).
@@ -24,19 +28,19 @@ My email: william.rui.he "at" gmail.com or wrhe "at" cs.cmu.edu
 
 <span style="font-size:1.2em;">**Publications**</span>\\
 **Testing Junta Truncation**. [\[arXiv\]](https://arxiv.org/abs/2308.13992)\\
-William He, Shivam Nadimpalli.\\
+William He, [Shivam Nadimpalli](https://www.cs.columbia.edu/~nadimpalli/).\\
 Preprint.
 
 **Beyond the Quadratic Time Barrier for Network Unreliability**. [\[arXiv\]](https://arxiv.org/abs/2304.06552)\\
-Ruoxu Cen, William He, Jason Li, Debmalya Panigrahi. \\
+[Ruoxu Cen](https://sites.google.com/view/ruoxu-cen), William He, [Jason Li](https://q3r.github.io/), [Debmalya Panigrahi](https://www.debmalyapanigrahi.org/). \\
 SODA 2024.
 
 **Steiner Connectivity Augmentation and Splitting-off in Poly-logarithmic Maximum Flows**. [\[arXiv\]](https://arxiv.org/abs/2211.05769)\\
-Ruoxu Cen, William He, Jason Li, Debmalya Panigrahi. \\
+[Ruoxu Cen](https://sites.google.com/view/ruoxu-cen), William He, [Jason Li](https://q3r.github.io/), [Debmalya Panigrahi](https://www.debmalyapanigrahi.org/). \\
 SODA 2023.
 
 **Symmetric Formulas for Products of Permutations**. [\[arXiv\]](https://arxiv.org/abs/2211.15520)\\
-William He, Benjamin Rossman. \\
+William He, [Benjamin Rossman](https://users.cs.duke.edu/~br148/). \\
 ITCS 2023.
 
 

@@ -10,16 +10,7 @@ redirect_from:
 
 
 
-.oval-image{
-  width: 200px;
-  height: 200px;
-  border-radius: 5%;
-  background-image: url(files/myface.png);
-  background-size: cover; 
-  class="center";
-}
-
-<img src="files/myface.png" alt="drawing" width="200"/>
+<img src="files/myface.png" alt="avatar" width="200",class="center">
 
 <span style="font-size:1.2em;">**About Me**</span>\\
 Welcome to my website! I am a first-year Ph.D. student in the Computer Science Department at Carnegie Mellon University. I am fortunate to be advised by [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/). Previously, I was an undergraduate at Duke University, where I got my B.S. in Mathematics and Computer Science and was fortunate to be advised by [Benjamin Rossman](https://users.cs.duke.edu/~br148/) and [Debmalya Panigrahi](https://www.debmalyapanigrahi.org/).

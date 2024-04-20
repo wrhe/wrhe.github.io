@@ -5,16 +5,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="font-size:1.5em;">**William He**</span>\\
+<span style="font-size:1.5em;">**William He**</span>
 
-
-<img src="files/myface.png" alt="Avatar" width="200" class="avatar">
-.avatar {
-  vertical-align: middle;
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-}
+<img src="files/myface.png" alt="Avatar" width="200" class="avatar" border-radius: 50;>
 
 <span style="font-size:1.2em;">**About Me**</span>\\
 Welcome to my website! I am a first-year Ph.D. student in the Computer Science Department at Carnegie Mellon University. I am fortunate to be advised by [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/). Previously, I was an undergraduate at Duke University, where I got my B.S. in Mathematics and Computer Science and was fortunate to be advised by [Benjamin Rossman](https://users.cs.duke.edu/~br148/) and [Debmalya Panigrahi](https://www.debmalyapanigrahi.org/).

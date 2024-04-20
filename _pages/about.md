@@ -6,7 +6,19 @@ redirect_from:
   - /about.html
 ---
 <span style="font-size:1.2em;">**William He**</span>\\
-![image](files/myface.png)
+
+
+
+
+.oval-image{
+  width: 200px;
+  height: 200px;
+  border-radius: 5%;
+  background-image: url(files/myface.png);
+  background-size: cover; 
+  class="center";
+}
+
 <img src="files/myface.png" alt="drawing" width="200"/>
 
 <span style="font-size:1.2em;">**About Me**</span>\\

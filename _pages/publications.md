@@ -5,12 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+Publications
 
-{% include base_path %}
+Testing Junta Truncation. [&lsqb; arXiv &rsqb;](https://arxiv.org/abs/2308.13992)\\
+William He, Shivam Nadimpalli.\\
+Preprint.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Beyond the Quadratic Time Barrier for Network Unreliability. [&lsqb; arXiv &rsqb;](https://arxiv.org/abs/2304.06552)\\
+Ruoxu Cen, William He, Jason Li, Debmalya Panigrahi. \\
+SODA 2024.
+
+Steiner Connectivity Augmentation and Splitting-off in Poly-logarithmic Maximum Flows. [&lsqb; arXiv &rsqb;](https://arxiv.org/abs/2211.05769)\\
+Ruoxu Cen, William He, Jason Li, Debmalya Panigrahi. \\
+SODA 2023.
+
+Symmetric Formulas for Products of Permutations. [&lsqb; arXiv &rsqb;](https://arxiv.org/abs/2211.15520)\\
+William He, Benjamin Rossman. \\
+ITCS 2023.

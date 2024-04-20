@@ -5,6 +5,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<span style="font-size:1.2em;">**William He**</span>\\
+![image](files/myface.png)
 
 <span style="font-size:1.2em;">**About Me**</span>\\
 Welcome to my website! I am a first-year Ph.D. student in the Computer Science Department at Carnegie Mellon University. I am fortunate to be advised by [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/). Previously, I was an undergraduate at Duke University, where I got my B.S. in Mathematics and Computer Science and was fortunate to be advised by [Benjamin Rossman](https://users.cs.duke.edu/~br148/) and [Debmalya Panigrahi](https://www.debmalyapanigrahi.org/).
@@ -32,3 +34,12 @@ SODA 2023.
 **Symmetric Formulas for Products of Permutations**. [\[arXiv\]](https://arxiv.org/abs/2211.15520)\\
 William He, Benjamin Rossman. \\
 ITCS 2023.
+
+
+<span style="font-size:1.2em;">**Teaching**</span>\\
+In Spring 2024 I am a TA for 15-751 (CS Theory Toolkit).
+
+<span style="font-size:1.2em;">**Other**</span>\\
+In Fall 2023 I co-organized a [reading group](https://docs.google.com/document/d/1PBddwr6dMlV5Cl93Ghq1CPrqcg8wWZS1KQBvxfygGfM/edit) on high-dimensional expanders.
+
+In Fall 2023 I was a Session Leader for the [CMU TechNights](https://www.cmu.edu/scs/technights/) program.

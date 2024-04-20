@@ -21,7 +21,7 @@ repository               : "wrhe/wrhe.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "myface.png"
+  avatar           : "profile.png"
   name             : "William He"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student"

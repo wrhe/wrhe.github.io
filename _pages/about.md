@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-\textbf{About Me}
+**About Me**
 
 Welcome to my website! I am a first-year Ph.D. student in the Computer Science Department at Carnegie Mellon University. I am fortunate to be advised by [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/). Previously, I was an undergraduate at Duke University, where I got my B.S. in Mathematics and Computer Science and was fortunate to be advised by [Benjamin Rossman](https://users.cs.duke.edu/~br148/) and [Debmalya Panigrahi](https://www.debmalyapanigrahi.org/).
 
@@ -17,20 +17,20 @@ Outside of research, I enjoy playing basketball, attempting to climb rocks, and 
 
 My email: william.rui.he "at" gmail.com or wrhe "at" cs.cmu.edu
 
-\textbf{Publications}
+**Publications**
 
-Testing Junta Truncation. [&lsqb; arXiv &rsqb;](https://arxiv.org/abs/2308.13992)\\
+Testing Junta Truncation. [\[arXiv\]](https://arxiv.org/abs/2308.13992)\\
 William He, Shivam Nadimpalli.\\
 Preprint.
 
-Beyond the Quadratic Time Barrier for Network Unreliability. [&lsqb; arXiv &rsqb;](https://arxiv.org/abs/2304.06552)\\
+Beyond the Quadratic Time Barrier for Network Unreliability. [\[arXiv\]](https://arxiv.org/abs/2304.06552)\\
 Ruoxu Cen, William He, Jason Li, Debmalya Panigrahi. \\
 SODA 2024.
 
-Steiner Connectivity Augmentation and Splitting-off in Poly-logarithmic Maximum Flows. [&lsqb; arXiv &rsqb;](https://arxiv.org/abs/2211.05769)\\
+Steiner Connectivity Augmentation and Splitting-off in Poly-logarithmic Maximum Flows. [\[arXiv\]](https://arxiv.org/abs/2211.05769)\\
 Ruoxu Cen, William He, Jason Li, Debmalya Panigrahi. \\
 SODA 2023.
 
-Symmetric Formulas for Products of Permutations. [&lsqb; arXiv &rsqb;](https://arxiv.org/abs/2211.15520)\\
+Symmetric Formulas for Products of Permutations. [\[arXiv\]](https://arxiv.org/abs/2211.15520)\\
 William He, Benjamin Rossman. \\
 ITCS 2023.

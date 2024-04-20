@@ -7,7 +7,7 @@ redirect_from:
 ---
 <span style="font-size:1.5em;">**William He**</span>
 
-<img src="files/myface.png" alt="Avatar" width="200">
+<center><img src="files/myface.png" alt="Avatar" width="200"></center>
 
 <span style="font-size:1.2em;">**About Me**</span>\\
 Welcome to my website! I am a first-year Ph.D. student in the Computer Science Department at Carnegie Mellon University. I am fortunate to be advised by [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/). Previously, I was an undergraduate at Duke University, where I got my B.S. in Mathematics and Computer Science and was fortunate to be advised by [Benjamin Rossman](https://users.cs.duke.edu/~br148/) and [Debmalya Panigrahi](https://www.debmalyapanigrahi.org/).
@@ -16,7 +16,7 @@ My research interests lie in theoretical computer science. Recently I have been 
 
 Outside of research, I enjoy playing basketball, attempting to climb rocks, and watching movies.
 
-My email: william.rui.he "at" gmail.com or wrhe "at" cs.cmu.edu
+My email: william.rui.he "at" gmail.com **or** wrhe "at" cs.cmu.edu
 
 
 <span style="font-size:1.2em;">**Publications**</span>\\

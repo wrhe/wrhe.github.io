@@ -21,19 +21,19 @@ My email: william.rui.he "at" gmail.com **or** wrhe "at" cs.cmu.edu
 <span style="font-size:1.2em;">**Publications**</span>\\
 **Testing Junta Truncation**. \\
 William He, [Shivam Nadimpalli](https://www.cs.columbia.edu/~nadimpalli/).\\
-Preprint. \[[arXiv]\](https://arxiv.org/abs/2308.13992)
+Preprint. \[[arXiv](https://arxiv.org/abs/2308.13992)\]
 
 **Beyond the Quadratic Time Barrier for Network Unreliability**.\\
 [Ruoxu Cen](https://sites.google.com/view/ruoxu-cen), William He, [Jason Li](https://q3r.github.io/), [Debmalya Panigrahi](https://www.debmalyapanigrahi.org/). \\
-SODA 2024. \[[arXiv]\](https://arxiv.org/abs/2304.06552)
+SODA 2024. \[[arXiv](https://arxiv.org/abs/2304.06552)\]
 
 **Steiner Connectivity Augmentation and Splitting-off in Poly-logarithmic Maximum Flows**.\\
 [Ruoxu Cen](https://sites.google.com/view/ruoxu-cen), William He, [Jason Li](https://q3r.github.io/), [Debmalya Panigrahi](https://www.debmalyapanigrahi.org/). \\
-SODA 2023. \[[arXiv]\](https://arxiv.org/abs/2211.05769)
+SODA 2023. \[[arXiv](https://arxiv.org/abs/2211.05769)\]
 
 **Symmetric Formulas for Products of Permutations**.\\
 William He, [Benjamin Rossman](https://users.cs.duke.edu/~br148/). \\
-ITCS 2023. \[[arXiv]\](https://arxiv.org/abs/2211.15520)
+ITCS 2023. \[[arXiv](https://arxiv.org/abs/2211.15520)\]
 
 
 <span style="font-size:1.2em;">**Teaching**</span>\\

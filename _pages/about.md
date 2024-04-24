@@ -18,7 +18,7 @@ Outside of research, I enjoy playing basketball, attempting to climb rocks, and 
 
 My email: william.rui.he "at" gmail.com **or** wrhe "at" cs.cmu.edu
 
-<span style="font-size:1.2em;">**Publications**</span>\\
+<span style="font-size:1.2em;">**Publications**</span>
 
 **Pseudorandom Permutations from Random Reversible Circuits**\\
 William He, [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\
@@ -41,10 +41,13 @@ William He, [Benjamin Rossman](https://users.cs.duke.edu/~br148/). \\
 ITCS 2023. \[[arXiv](https://arxiv.org/abs/2211.15520)\]
 
 
-<span style="font-size:1.2em;">**Teaching**</span>\\
-In Spring 2024 I am a TA for 15-751 (CS Theory Toolkit).
+<span style="font-size:1.2em;">**Teaching**</span>
+<ul>
+<li>In Spring 2024 I am a TA for 15-751 (CS Theory Toolkit).</li>
+</ul>
 
-<span style="font-size:1.2em;">**Other**</span>\\
+
+<span style="font-size:1.2em;">**Other**</span>
 <ul>
 <li>In Fall 2023 I co-organized a [reading group](https://docs.google.com/document/d/1PBddwr6dMlV5Cl93Ghq1CPrqcg8wWZS1KQBvxfygGfM/edit) on high-dimensional expanders.</li>
 <li>In Fall 2023 I was a Session Leader for the [CMU TechNights](https://www.cmu.edu/scs/technights/) program.</li>

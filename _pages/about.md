@@ -41,9 +41,9 @@ William He, [Benjamin Rossman](https://users.cs.duke.edu/~br148/). \\
 ITCS 2023. \[[arXiv](https://arxiv.org/abs/2211.15520)\]
 
 
-<span style="font-size:1.2em;">**Teaching**</span>\\
-<p>&#8226;<p> In Spring 2024 I am a TA for 15-751 (CS Theory Toolkit).
+<span style="font-size:1.2em;">**Teaching**</span>
+<p>&#8226; In Spring 2024 I am a TA for 15-751 (CS Theory Toolkit).<p>
 
-<span style="font-size:1.2em;">**Other**</span>\\
-<p>&#8226;<p> In Fall 2023 I co-organized a [reading group](https://docs.google.com/document/d/1PBddwr6dMlV5Cl93Ghq1CPrqcg8wWZS1KQBvxfygGfM/edit) on high-dimensional expanders.\\
-<p>&#8226;<p> In Fall 2023 I was a Session Leader for the [CMU TechNights](https://www.cmu.edu/scs/technights/) program.
+<span style="font-size:1.2em;">**Other**</span>
+<p>&#8226; In Fall 2023 I co-organized a [reading group](https://docs.google.com/document/d/1PBddwr6dMlV5Cl93Ghq1CPrqcg8wWZS1KQBvxfygGfM/edit) on high-dimensional expanders.<p>
+<p>&#8226; In Fall 2023 I was a Session Leader for the [CMU TechNights](https://www.cmu.edu/scs/technights/) program.<p>

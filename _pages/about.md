@@ -20,7 +20,7 @@ My email: william.rui.he "at" gmail.com **or** wrhe "at" cs.cmu.edu
 
 <span style="font-size:1.2em;">**Publications**</span>
 
-**Pseudorandom Permutations from Random Reversible Circuits.**\\
+**Pseudorandom Permutations from Random Reversible Circuits**.\\
 William He, [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\
 Preprint. \[[arXiv](https://arxiv.org/abs/2404.14648)\]
 

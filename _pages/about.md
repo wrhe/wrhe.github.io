@@ -20,9 +20,9 @@ My email: william.rui.he "at" gmail.com **or** wrhe "at" cs.cmu.edu
 
 <span style="font-size:1.2em;">**Publications**</span>
 
-**More Efficient k-Wise Independent Permutations from Random Reversible Circuits via log-Sobolev Inequalities**.\\
+**More Efficient Approximate k-wise Independent Permutations from Random Reversible Circuits via log-Sobolev Inequalities**.\\
 Lucas Gretta, William He, [Angelos Pelecanos](https://people.eecs.berkeley.edu/~apelecan/).\\
-Preprint. \[<a href= "files/Random_Circuit_Mixing.pdf">PDF</a>\]
+Preprint. \[[ePrint](https://eprint.iacr.org/2024/847)\]
 
 **Pseudorandom Permutations from Random Reversible Circuits**.\\
 William He, [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\

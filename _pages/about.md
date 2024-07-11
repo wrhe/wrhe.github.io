@@ -4,7 +4,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  google-site-verification: google443e319cbdb29f6b.html
 ---
 <span style="font-size:1.5em;">**William He**</span>
 

@@ -10,11 +10,11 @@ redirect_from:
 <center><img src="files/myface.png" width="200"></center> 
 
 <span style="font-size:1.2em;">**About Me**</span>\\
-Welcome to my website! I am a first-year Ph.D. student in the Computer Science Department at Carnegie Mellon University. I am fortunate to be advised by [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/). Previously, I was an undergraduate at Duke University, where I got my B.S. in Mathematics and Computer Science and was fortunate to be advised by [Benjamin Rossman](https://users.cs.duke.edu/~br148/) and [Debmalya Panigrahi](https://www.debmalyapanigrahi.org/).
+Welcome to my website! I am a second-year Ph.D. student in the Computer Science Department at Carnegie Mellon University. I am fortunate to be advised by [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/). Previously, I was an undergraduate at Duke University, where I got my B.S. in Mathematics and Computer Science and was fortunate to be advised by [Benjamin Rossman](https://users.cs.duke.edu/~br148/) and [Debmalya Panigrahi](https://www.debmalyapanigrahi.org/).
 
 My research interests lie in theoretical computer science. Recently I have been thinking about problems in pseudorandomness and Markov chain mixing. As an undergraduate I worked on circuit complexity and graph algorithms.
 
-Outside of research, I enjoy playing basketball, attempting to climb rocks, and watching movies.
+Outside of research, I enjoy playing basketball, playing tennis, and watching movies.
 
 My email: william.rui.he "at" gmail.com **or** wrhe "at" cs.cmu.edu
 
@@ -22,7 +22,7 @@ My email: william.rui.he "at" gmail.com **or** wrhe "at" cs.cmu.edu
 
 **More Efficient Approximate k-wise Independent Permutations from Random Reversible Circuits via log-Sobolev Inequalities**.\\
 Lucas Gretta, William He, [Angelos Pelecanos](https://people.eecs.berkeley.edu/~apelecan/).\\
-Preprint. \[[ePrint](https://eprint.iacr.org/2024/847)\]
+Preprint. \[[arXiv](https://arxiv.org/abs/2406.08499)\]
 
 **Pseudorandom Permutations from Random Reversible Circuits**.\\
 William He, [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\

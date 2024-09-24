@@ -21,7 +21,7 @@ My email: william.rui.he "at" gmail.com **or** wrhe "at" cs.cmu.edu
 <span style="font-size:1.2em;">**Publications**</span>
 
 **Faster Mixing of Higher-Dimensional Random Reversible Circuits**.\\
-William Gay, William He, Nicholas Kocurek.\\
+William Gay, William He, [Nicholas Kocurek](https://nkocurek.github.io/).\\
 Preprint. \[[arXiv](https://arxiv.org/abs/2409.14614)\]
 
 **More Efficient Approximate k-wise Independent Permutations from Random Reversible Circuits via log-Sobolev Inequalities**.\\

@@ -26,7 +26,7 @@ Preprint. \[[arXiv](https://arxiv.org/abs/2409.14614)\]
 
 **More Efficient Approximate k-wise Independent Permutations from Random Reversible Circuits via log-Sobolev Inequalities**.\\
 Lucas Gretta, William He, [Angelos Pelecanos](https://people.eecs.berkeley.edu/~apelecan/).\\
-Preprint. \[[arXiv](https://arxiv.org/abs/2406.08499)\]
+SODA 2025. \[[arXiv](https://arxiv.org/abs/2406.08499)\]
 
 **Pseudorandom Permutations from Random Reversible Circuits**.\\
 William He, [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\

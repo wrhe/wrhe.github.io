@@ -33,7 +33,7 @@ William He, [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\
 Preprint. \[[arXiv](https://arxiv.org/abs/2404.14648)\]
 
 **Testing Junta Truncation**. \\
-William He, [Shivam Nadimpalli](https://www.cs.columbia.edu/~nadimpalli/).\\
+William He, [Shivam Nadimpalli](https://math.mit.edu/~shivamn/).\\
 Preprint. \[[arXiv](https://arxiv.org/abs/2308.13992)\]
 
 **Beyond the Quadratic Time Barrier for Network Unreliability**.\\

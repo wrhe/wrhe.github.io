@@ -32,10 +32,6 @@ SODA 2025. \[[arXiv](https://arxiv.org/abs/2406.08499)\]
 William He, [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\
 Preprint. \[[arXiv](https://arxiv.org/abs/2404.14648)\]
 
-**Testing Junta Truncation**. \\
-William He, [Shivam Nadimpalli](https://math.mit.edu/~shivamn/).\\
-Preprint. \[[arXiv](https://arxiv.org/abs/2308.13992)\]
-
 **Beyond the Quadratic Time Barrier for Network Unreliability**.\\
 [Ruoxu Cen](https://sites.google.com/view/ruoxu-cen), William He, [Jason Li](https://q3r.github.io/), [Debmalya Panigrahi](https://www.debmalyapanigrahi.org/). \\
 SODA 2024. \[[arXiv](https://arxiv.org/abs/2304.06552)\]

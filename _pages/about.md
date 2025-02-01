@@ -20,17 +20,13 @@ My email: william.rui.he "at" gmail.com **or** wrhe "at" cs.cmu.edu
 
 <span style="font-size:1.2em;">**Publications**</span>
 
-**Faster Mixing of Higher-Dimensional Random Reversible Circuits**.\\
-William Gay, William He, [Nicholas Kocurek](https://nkocurek.github.io/).\\
-Preprint. \[[arXiv](https://arxiv.org/abs/2409.14614)\]
+**Pseudorandom Properties of Random Reversible Circuits**.\\
+William Gay, William He, [Nicholas Kocurek](https://nkocurek.github.io/), [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\
+Preprint. \[[arXiv,pt1](https://arxiv.org/abs/2409.14614),[arXiv,pt2](https://arxiv.org/abs/2404.14648)\]
 
 **More Efficient Approximate k-wise Independent Permutations from Random Reversible Circuits via log-Sobolev Inequalities**.\\
 Lucas Gretta, William He, [Angelos Pelecanos](https://people.eecs.berkeley.edu/~apelecan/).\\
 SODA 2025. \[[arXiv](https://arxiv.org/abs/2406.08499)\]
-
-**Pseudorandom Permutations from Random Reversible Circuits**.\\
-William He, [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\
-Preprint. \[[arXiv](https://arxiv.org/abs/2404.14648)\]
 
 **Beyond the Quadratic Time Barrier for Network Unreliability**.\\
 [Ruoxu Cen](https://sites.google.com/view/ruoxu-cen), William He, [Jason Li](https://q3r.github.io/), [Debmalya Panigrahi](https://www.debmalyapanigrahi.org/). \\

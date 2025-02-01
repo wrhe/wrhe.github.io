@@ -22,7 +22,7 @@ My email: william.rui.he "at" gmail.com **or** wrhe "at" cs.cmu.edu
 
 **Pseudorandom Properties of Random Reversible Circuits**.\\
 William Gay, William He, [Nicholas Kocurek](https://nkocurek.github.io/), [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\
-Preprint. \[[arXiv,pt1](https://arxiv.org/abs/2409.14614),[arXiv,pt2](https://arxiv.org/abs/2404.14648)\]
+Preprint. \[[arXiv pt1](https://arxiv.org/abs/2409.14614),[arXiv pt2](https://arxiv.org/abs/2404.14648)\]
 
 **More Efficient Approximate k-wise Independent Permutations from Random Reversible Circuits via log-Sobolev Inequalities**.\\
 Lucas Gretta, William He, [Angelos Pelecanos](https://people.eecs.berkeley.edu/~apelecan/).\\

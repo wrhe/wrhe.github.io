@@ -22,7 +22,7 @@ My email: william.rui.he "at" gmail.com **or** wrhe "at" cs.cmu.edu
 
 **Pseudorandom Properties of Random Reversible Circuits**.\\
 William Gay, William He, [Nicholas Kocurek](https://nkocurek.github.io/), [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\
-Preprint. \[[arXiv pt1](https://arxiv.org/abs/2404.14648)\], \[[arXiv pt2](https://arxiv.org/abs/2409.14614)\]
+Preprint. \[[pdf](https://wrhe.github.io/files/pseudorandom_permutations.pdf)\]
 
 <a href="wrhe.github.io/files/pseudorandom_permutations.pdf" target="_blank">PDF</a>
 

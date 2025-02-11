@@ -24,8 +24,6 @@ My email: william.rui.he "at" gmail.com **or** wrhe "at" cs.cmu.edu
 William Gay, William He, [Nicholas Kocurek](https://nkocurek.github.io/), [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\
 Preprint. \[[pdf](https://wrhe.github.io/files/pseudorandom_permutations.pdf)\]
 
-<a href="wrhe.github.io/files/pseudorandom_permutations.pdf" target="_blank">PDF</a>
-
 **More Efficient Approximate k-wise Independent Permutations from Random Reversible Circuits via log-Sobolev Inequalities**.\\
 Lucas Gretta, William He, [Angelos Pelecanos](https://people.eecs.berkeley.edu/~apelecan/).\\
 SODA 2025. \[[arXiv](https://arxiv.org/abs/2406.08499)\]

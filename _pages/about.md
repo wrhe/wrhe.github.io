@@ -20,6 +20,10 @@ My email: william.rui.he "at" gmail.com **or** wrhe "at" cs.cmu.edu
 
 <span style="font-size:1.2em;">**Publications**</span>
 
+**Few Single-Qubit Measurements Suffice to Certify Any Quantum State**.\\
+[Meghal Gupta](https://www.meghalgupta.com/), William He, [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\
+Preprint 2025. \[[arXiv](https://arxiv.org/abs/2506.11355)\]
+
 **Pseudorandom Properties of Random Reversible Circuits**.\\
 William Gay, William He, [Nicholas Kocurek](https://nkocurek.github.io/), [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\
 CRYPTO 2025. \[[arXiv](https://arxiv.org/abs/2502.07159)\]

@@ -26,7 +26,7 @@ Preprint 2025. \[[arXiv](https://arxiv.org/abs/2506.23456)\]
 
 **Few Single-Qubit Measurements Suffice to Certify Any Quantum State**.\\
 [Meghal Gupta](https://www.meghalgupta.com/), William He, [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\
-Preprint 2025. \[[pdf](https://wrhe.github.io/files/single_qubits.pdf)\]
+Preprint 2025. \[[pdf](https://wrhe.github.io/files/single_qubits.pdf)\] \[[my talk at Simons](https://www.youtube.com/watch?v=5pU4eaZXQG0)\]
 
 **Pseudorandom Properties of Random Reversible Circuits**.\\
 William Gay, William He, [Nicholas Kocurek](https://nkocurek.github.io/), [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\

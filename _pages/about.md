@@ -12,7 +12,7 @@ redirect_from:
 <span style="font-size:1.2em;">**About Me**</span>\\
 Welcome to my website! I am a second-year Ph.D. student in the Computer Science Department at Carnegie Mellon University. I am fortunate to be advised by [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/). Previously, I was an undergraduate at Duke University, where I got my B.S. in Mathematics and Computer Science and was fortunate to be advised by [Benjamin Rossman](https://users.cs.duke.edu/~br148/) and [Debmalya Panigrahi](https://www.debmalyapanigrahi.org/).
 
-My research interests lie broadly in the intersection of theoretical computer science and probability theory. Recently I have been working topics such as Markov chain mixing, distribution testing, and random matrix theory. As an undergraduate I worked on circuit complexity and graph algorithms.
+My research interests lie broadly in the intersection of theoretical computer science and probability theory. Recently I have been working topics such as Markov chain mixing and distribution testing. As an undergraduate I worked on circuit complexity and graph algorithms.
 
 Outside of research, I enjoy playing basketball, playing tennis, and watching movies.
 
@@ -54,7 +54,6 @@ ITCS 2023. \[[arXiv](https://arxiv.org/abs/2211.15520)\]
 
 <span style="font-size:1.2em;">**Other**</span>
 
-+ In Fall 2024 and Spring 2025 I am a co-organizer of CMU's [Theory Lunch](https://www.cs.cmu.edu/~./theorylunch/). 
-+ Reviewer for: ESA 2024.
++ In Fall 2024 and Spring 2025 I was a co-organizer of CMU's [Theory Lunch](https://www.cs.cmu.edu/~./theorylunch/). 
 + In Fall 2023 I co-organized a [reading group](https://docs.google.com/document/d/1PBddwr6dMlV5Cl93Ghq1CPrqcg8wWZS1KQBvxfygGfM/edit) on high-dimensional expanders.
 + In Fall 2023 I was a Session Leader for the [CMU TechNights](https://www.cmu.edu/scs/technights/) program.

@@ -30,7 +30,7 @@ Preprint 2025. \[[pdf](https://wrhe.github.io/files/single_qubits.pdf)\] \[[my t
 
 **Pseudorandom Properties of Random Reversible Circuits**.\\
 William Gay, William He, [Nicholas Kocurek](https://nkocurek.github.io/), [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\
-CRYPTO 2025. \[[arXiv](https://arxiv.org/abs/2502.07159)\]
+CRYPTO 2025. \[[arXiv](https://arxiv.org/abs/2502.07159)\] \[[my talk at CMU](https://www.youtube.com/watch?v=4AJ6bAKJCts)\]
 
 **More Efficient Approximate k-wise Independent Permutations from Random Reversible Circuits via log-Sobolev Inequalities**.\\
 Lucas Gretta, William He, [Angelos Pelecanos](https://people.eecs.berkeley.edu/~apelecan/).\\
@@ -38,7 +38,7 @@ SODA 2025. \[[arXiv](https://arxiv.org/abs/2406.08499)\]
 
 **Beyond the Quadratic Time Barrier for Network Unreliability**.\\
 [Ruoxu Cen](https://sites.google.com/view/ruoxu-cen), William He, [Jason Li](https://q3r.github.io/), [Debmalya Panigrahi](https://www.debmalyapanigrahi.org/). \\
-SODA 2024. \[[arXiv](https://arxiv.org/abs/2304.06552)\]
+SODA 2024. \[[arXiv](https://arxiv.org/abs/2304.06552)\] \[[Debmalya's talk at Simons](https://www.youtube.com/watch?v=gsQBqggnkRs)\]
 
 **Steiner Connectivity Augmentation and Splitting-off in Poly-logarithmic Maximum Flows**.\\
 [Ruoxu Cen](https://sites.google.com/view/ruoxu-cen), William He, [Jason Li](https://q3r.github.io/), [Debmalya Panigrahi](https://www.debmalyapanigrahi.org/). \\

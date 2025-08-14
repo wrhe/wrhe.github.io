@@ -20,6 +20,10 @@ My email: william.rui.he "at" gmail.com **or** wrhe "at" cs.cmu.edu
 
 <span style="font-size:1.2em;">**Publications**</span>
 
+**A Classical Quadratic Speedup for Planted kXOR**.\\
+[Meghal Gupta](https://www.meghalgupta.com/), William He, [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/), [Noah G. Singer](https://noahsinger.org/).\\
+Preprint 2025. \[[arXiv](https://arxiv.org/abs/2508.09422)\]
+
 **Sampling and Identity-Testing Without Approximate Tensorization of Entropy**.\\
 William Gay, William He, [Nicholas Kocurek](https://nkocurek.github.io/), [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\
 Preprint 2025. \[[arXiv](https://arxiv.org/abs/2506.23456)\]

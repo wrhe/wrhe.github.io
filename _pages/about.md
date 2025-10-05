@@ -14,8 +14,6 @@ Welcome to my website! I am a third-year Ph.D. student in the Computer Science D
 
 My research interests lie broadly in the intersection of theoretical computer science and probability theory. Recently I have been working on quantum statistics and algorithms for approximate counting/sampling. As an undergraduate I worked on circuit complexity and graph algorithms.
 
-Outside of research, I enjoy playing basketball, playing tennis, and watching movies.
-
 My email: william.rui.he "at" gmail.com **or** wrhe "at" cs.cmu.edu
 
 <span style="font-size:1.2em;">**Publications**</span>

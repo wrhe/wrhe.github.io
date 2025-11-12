@@ -24,8 +24,7 @@ Preprint 2025. \[[arXiv](https://arxiv.org/abs/2506.23456)\]
 
 **Few Single-Qubit Measurements Suffice to Certify Any Quantum State**.\\
 [Meghal Gupta](https://www.meghalgupta.com/), William He, [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\
-QIP 2026. \[[arXiv](https://arxiv.org/abs/2506.11355)\] \[[my talk at Simons](https://www.youtube.com/watch?v=5pU4eaZXQG0)\]\\
-<span style="color: green; font-weight: bold;">Best Student Paper</span>
+QIP 2026 <span style="color: green; font-weight: bold;">Best Student Paper, Short Plenary</span>. \[[arXiv](https://arxiv.org/abs/2506.11355)\] \[[my talk at Simons](https://www.youtube.com/watch?v=5pU4eaZXQG0)\]
 
 **A Classical Quadratic Speedup for Planted kXOR**.\\
 [Meghal Gupta](https://www.meghalgupta.com/), William He, [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/), [Noah G. Singer](https://noahsinger.org/).\\

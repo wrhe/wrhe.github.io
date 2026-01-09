@@ -20,11 +20,11 @@ My email: william.rui.he "at" gmail.com **or** wrhe "at" cs.cmu.edu
 
 **Pauli Measurements Are Near-Optimal for Pure State Tomography**.\\
 [Sabee Grewal](https://sabeegrewal.com/), [Meghal Gupta](https://www.meghalgupta.com/), William He, [Aniruddha Sen](https://aniruddhasen.github.io/), [Mihir Singhal](https://www.mihirsinghal.com/).\\
-Preprint 2026. \[[arXiv](https://arxiv.org/abs/2601.04444)\]
+Preprint. \[[arXiv](https://arxiv.org/abs/2601.04444)\]
 
 **Sampling and Identity-Testing Without Approximate Tensorization of Entropy**.\\
 William Gay, William He, [Nicholas Kocurek](https://nkocurek.github.io/), [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\
-Preprint 2025. \[[arXiv](https://arxiv.org/abs/2506.23456)\]
+Preprint. \[[arXiv](https://arxiv.org/abs/2506.23456)\]
 
 **Few Single-Qubit Measurements Suffice to Certify Any Quantum State**.\\
 [Meghal Gupta](https://www.meghalgupta.com/), William He, [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\

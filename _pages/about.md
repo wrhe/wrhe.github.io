@@ -18,7 +18,7 @@ My email: william.rui.he "at" gmail.com **or** wrhe "at" cs.cmu.edu
 
 <span style="font-size:1.2em;">**Publications**</span>
 
-**Pauli Measurements Are Near-Optimal for Pure State Tomography**.\\
+**Nearly Time-Optimal Pure State Tomography with Pauli Measurements**.\\
 [Sabee Grewal](https://sabeegrewal.com/), [Meghal Gupta](https://www.meghalgupta.com/), William He, [Aniruddha Sen](https://aniruddhasen.github.io/), [Mihir Singhal](https://www.mihirsinghal.com/).\\
 Preprint. \[[arXiv](https://arxiv.org/abs/2601.04444)\]
 
@@ -56,10 +56,6 @@ ITCS 2023. \[[arXiv](https://arxiv.org/abs/2211.15520)\]
 
 <span style="font-size:1.2em;">**Teaching**</span>
 
++ In Spring 2026 I was a TA for 15-459 (Undergraduate Quantum Computing).
+
 + In Spring 2024 I was a TA for 15-751 (CS Theory Toolkit).
-
-<span style="font-size:1.2em;">**Other**</span>
-
-+ In Fall 2024 and Spring 2025 I was a co-organizer of CMU's [Theory Lunch](https://www.cs.cmu.edu/~./theorylunch/). 
-+ In Fall 2023 I co-organized a [reading group](https://docs.google.com/document/d/1PBddwr6dMlV5Cl93Ghq1CPrqcg8wWZS1KQBvxfygGfM/edit) on high-dimensional expanders.
-+ In Fall 2023 I was a Session Leader for the [CMU TechNights](https://www.cmu.edu/scs/technights/) program.

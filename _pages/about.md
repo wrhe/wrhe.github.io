@@ -24,7 +24,7 @@ Preprint. \[[arXiv](https://arxiv.org/abs/2601.04444)\]
 
 **Sampling and Identity-Testing Without Approximate Tensorization of Entropy**.\\
 William Gay, William He, [Nicholas Kocurek](https://nkocurek.github.io/), [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\
-Preprint. \[[arXiv](https://arxiv.org/abs/2506.23456)\]
+ICML 2026. \[[arXiv](https://arxiv.org/abs/2506.23456)\]
 
 **Few Single-Qubit Measurements Suffice to Certify Any Quantum State**.\\
 [Meghal Gupta](https://www.meghalgupta.com/), William He, [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\

@@ -18,7 +18,7 @@ My email: william.rui.he "at" gmail.com **or** wrhe "at" cs.cmu.edu
 
 **Nearly Time-Optimal Pure State Tomography with Pauli Measurements**.\\
 [Sabee Grewal](https://sabeegrewal.com/), [Meghal Gupta](https://www.meghalgupta.com/), William He, [Aniruddha Sen](https://aniruddhasen.github.io/), [Mihir Singhal](https://www.mihirsinghal.com/).\\
-Preprint. \[[arXiv](https://arxiv.org/abs/2601.04444)\]
+FOCS 2026. \[[arXiv](https://arxiv.org/abs/2601.04444)\]
 
 **Sampling and Identity-Testing Without Approximate Tensorization of Entropy**.\\
 William Gay, William He, [Nicholas Kocurek](https://nkocurek.github.io/), [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).\\
